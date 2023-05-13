@@ -6,7 +6,9 @@
   "version": "0.1.0",
   "description": "Experimental miniproject for Typescript based web development.",
   "main": "index.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
   "scripts": {
     "test": "test"
   },
