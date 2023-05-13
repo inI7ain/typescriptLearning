@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^8.0.0"
+  },
+  "name": "tsmap",
+  "version": "0.1.0",
+  "description": "Experimental miniproject for Typescript based web development.",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "Learning",
+    "Typescript"
+  ],
+  "author": "Attila Troja",
+  "license": "UNLICENSED"
+}
